@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proga_laba2_2", "proga_laba2_2\proga_laba2_2.csproj", "{7AEB01F1-DE4A-407B-82DD-566CD35E5AEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AEB01F1-DE4A-407B-82DD-566CD35E5AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AEB01F1-DE4A-407B-82DD-566CD35E5AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AEB01F1-DE4A-407B-82DD-566CD35E5AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AEB01F1-DE4A-407B-82DD-566CD35E5AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {728C4E05-0B3B-41F9-A4AD-1A2442A5A425}
+	EndGlobalSection
+EndGlobal
